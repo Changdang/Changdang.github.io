@@ -1,13 +1,11 @@
 ---
-layout: page
-title: To Do List
-permalink: /todolist/
+layout: collection
+title:
+permalink: /wishlist/
 ---
 
-
-
 <ol>
-
   <li><b>Be happy</b> </li>
+
 
 </ol>

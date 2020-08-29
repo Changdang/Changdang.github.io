@@ -35,6 +35,8 @@ Right now, I do not how to make the word list goes from A-Z, I will learn how to
   <li><b>compatibility</b> Tính tương hợp </li>
   <li><b>fallback</b> dự trữ </li>
   <li><b>parse</b> mổ sẻ </li>
+  <li><b>antevasin</b> (Sanskrit) one who lives at the border </li>
+  <li><b>credo</b> The set of beliefs that influence the way you live </li>
 
 </ol>
 
