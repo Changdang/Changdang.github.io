@@ -37,4 +37,5 @@ collection: mylexis
   <li><b>Antevasin:</b> (Sanskrit) one who lives at the border </li>
   <li><b>Credo:</b> The set of beliefs that influence the way you live </li>
   <li><b>Zealot:</b> Người nhiệt thành </li>
+  <li><b>Condiment:</b> Gia vị </li>
 </ol>
