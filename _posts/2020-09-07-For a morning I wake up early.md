@@ -2,7 +2,7 @@
 layout: post
 author: Trang
 ---
-> Early birds catch the worms
+Early birds catch the worms
 
 My today's morning starts at 4h30am which is pretty much early compared to the other days. Obviously, I did not sleep well though I went to bed at 10pm the previous night. I could not sleep well because there are some thoughts disturbing my mind. I got confused with the road map for the future. Will that short term plan effectively afford myself to pursue the long term goal? Will the short term and long term plans be as fun as they sound? Because I am excited but a bit afraid to think about them. However, I think we can never get answers for those questions unless we start taking actions.
 
