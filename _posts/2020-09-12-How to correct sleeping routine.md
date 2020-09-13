@@ -3,6 +3,8 @@ layout: post
 author: Trang
 ---
 
+Eat. Learn. Sleep. Repeat!
+
 Perhaps most of us once face problem regarding sleeping quality and quantity. Young people spend sleepless night gaming or surfing Internet. Old people can not get back to sleep at mid night due to insomnia or sleeping difficulty. Poor sleeping pattern severely affects our well-beings and increase risk of serious medical conditions, such as obesity, heart disease, diabetes and short life expectancy. The good news is that our sleeping pattern can be improved if we understand the causes and then build healthy alternatives based on that.
 
 There are 2 factors that affect our sleeping mechanism. They are circadian rhythm and sleep pressure. Circadian rhythms are 24-hour cycles that are part of the body’s internal clock that carry out essential functions and processes. One of the most important and well-known circadian rhythms is the sleep-wake cycle. In this sleep - wake cycle, the body generates melatonin hormone which makes us feel sleepy when it is getting dark. When the body detects sun lights or artificial lights that are seen commonly these days, the body stays awake due to the increasing of cortisol hormone. Therefore, to force the body go to sleep at the desired time, we should avoid phone usage at least 1 hour before going to sleep. Because the artificial light of the phone screen stimulates cortisol hormone which makes us stay awake all night to be produced. On the contrary, we should expose the body with sun lights as soon as we wake up so that melatonin hormone which generates the sleepiness is put at rest.
