@@ -9,4 +9,5 @@ Archive for books
   <li> Tâm lý dân tộc An Nam. </li>
   <li> South of the border, West of the sun. </li>
   <li> Bánh mì lang thang. </li>
+  <li> Wealth of a nation</li>
 </ol>
