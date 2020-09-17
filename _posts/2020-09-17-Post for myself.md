@@ -6,8 +6,11 @@ author: Trang
 This post is to remind myself of not forgetting what need to be done to make the dreams come true.  Instead of being discourage, sad and worry, please:
 
 Love yourself more.
+
 Trust the wait.
+
 Embrace the uncertainty.
+
 And enjoy the beauty of becoming.
 
 <p align="center">
