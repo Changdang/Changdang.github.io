@@ -38,4 +38,12 @@ collection: mylexis
   <li><b>Credo:</b> The set of beliefs that influence the way you live </li>
   <li><b>Zealot:</b> Người nhiệt thành </li>
   <li><b>Condiment:</b> Gia vị </li>
+  <li><b>Miscellaneous:</b> linh tinh </li>
+  <li><b>Obscenity:</b> linh tinh </li>
+  <li><b>Conscience:</b> luong tam, luong tam bi cho can</li>
+  <li><b>Omnipresent:</b> Co mat khap noi</li>
+  <li><b>Deceptive:</b> lua bip hoax</li>
+  <li><b>Opine</b> cho rang</li>
+
+
 </ol>
