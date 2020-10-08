@@ -51,10 +51,10 @@ Let's say you have the bread formula presented in percentage and you want to mak
 To obtain the weights of the remaining ingredients, first we divide the percentage by 100 to obtain a decimal, then multiply the resulting decimal by the weight of the flour. The entire formula would look like this:
 
 |--------|-------|-----|----|---|----|----|
-| Flour  |  100% |     |    |   |    | 150|
-| Water  |  75   |  /  |100 | * |150 | 113|
-| Salt   |  5    |  /  |100 | * |150 | 3.3|
-| Yeast  |  2    |  /  |100 | * |150 | 1.3|
+| Flour  |  100% |     |    |   |    | 150g|
+| Water  |  75   |  /  |100 | * |150 | 113g|
+| Salt   |  5    |  /  |100 | * |150 | 3.3g|
+| Yeast  |  2    |  /  |100 | * |150 | 1.3g|
 
 
 Generally speaking, the baker's percentage plays a crucial role in the baking process. It helps ensure the precise formula, ease obstacles when working on large-scale bread baking and create common language among bakers worldwide. Obtaining correct way to calculate and convert the ingredient's percentage shortens the course of making a nice loaf of bread.
