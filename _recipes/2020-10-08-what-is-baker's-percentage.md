@@ -38,7 +38,7 @@ When we follow the same method, we have the following values for the salt and ye
 
 It is worth noting that by simply looking at the percentages we can assert important thing about this bread which is the hydration. This bread has a 66% hydration. Hydration is defined as the percentage of liquid in a dough based on the flour weight. Hydration affects the process of gluten building and the nature of the final result. Generally speaking, the more water in the dough, the more open the final bread's crumb.
 
-<b> How to covert gram and other metrics from percentage? </b>
+<b> How to convert gram and other metrics from percentage? </b>
 
 Let's say you have the bread formula presented in percentage and you want to make the bread using 150g of flour. How do we calculate the weight of the remaining ingredients?
 
@@ -57,4 +57,4 @@ To obtain the weights of the remaining ingredients, first we divide the percenta
 | Yeast  |  2    |  /  |100 | * |150 | 1.3|
 
 
-Generally speaking, the baker's percentage plays a crucial rule in the baking process. It helps ensure the precise formula, ease obstacles when working on large-scale bread baking and create common language among bakers worldwide. Obtaining correct way to calculate and convert the ingredient percentage causes short cut in create a nice loaf of bread. 
+Generally speaking, the baker's percentage plays a crucial role in the baking process. It helps ensure the precise formula, ease obstacles when working on large-scale bread baking and create common language among bakers worldwide. Obtaining correct way to calculate and convert the ingredient's percentage shortens the course of making a nice loaf of bread.
