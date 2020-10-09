@@ -3,7 +3,7 @@ layout: post
 author: Trang
 ---
 
-THE PREAMBLE OF INDIAN CONSTITUTION
+THE PREAMBLE OF INDIAN CONSTITUTION (42nd amendment 1976)
 
 WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure all its citizens:
 
