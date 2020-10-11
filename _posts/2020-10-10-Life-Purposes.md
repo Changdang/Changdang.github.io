@@ -1,8 +1,9 @@
 ---
 layout: post
 author: Trang
+comment: true
 ---
-What are your life purposes? 
+What are your life purposes?
 
 Different people have different life purposes or existential reasons. Some luckily found them at early age while the majority is still searching their ultimate wants.
 
