@@ -1,49 +1,22 @@
 ---
-title:
+title: English Lexis By Latin Alphabet
 layout: collection
 permalink: /mylexis/
 collection: mylexis
+show_excerpts: false
+sort_by: title
+sort_order: forward
+entries_layout: grid
 ---
 
-<ol>
-  <li><b>Serendipity:</b> the fact of something interesting or pleasant happening by chance. Khả năng gặp được những điều đẹp đẽ một cách bất ngờ. Duyên. </li>
-  <li><b>Redamancy:</b> The act of loving in return. Bạn gặp được một người nào đó, người đó cũng đang yêu bạn.</li>
-  <li><b>Iridescent:</b> showing many bright colours that change with movement. Màu sắc của cầu vồng, rực rỡ tươi sáng như cầu vồng.</li>
-  <li><b>Echo:</b> Niệm niệm bất vong, tâm hữu hồi hướng. Nếu bạn không quên, luôn có hồi đáp cho bạn. </li>
-  <li><b>Salad days:</b> Shakespearean idiomatic expression means a youthful time, accompanied by the inexperience, enthusiasm, idealism, innocence, or indiscretion that one associates with a young person. Thiếu niên bất am, thế sự đích tuế nguyệt. Người trẻ không hiểu câu chuyện của năm tháng. </li>
-  <li><b>Aftermath:</b> the consequences or after-effects of a significant unpleasant event. Sự tổn thương. </li>
-  <li><b>Woebegone:</b> loking very sad. Bi thương khi bạn đã rời đi.</li>
-  <li><b>Petrichor:</b> The earthy scent produced when rain falls on dry soil. </li>
-  <li><b>Shmily:</b> See how much I love you. Nhìn xem em yêu anh đến nhường nào. :) </li>
-  <li><b>Hopelessly:</b>Một sự thỉnh cầu trong vô vọng. </li>
-  <li><b>Hiraeth:</b>A homesickness for a home you can not return to, or that never was </li>
-  <li><b>Agony:</b>extreme physical or mental pain. Bởi vì đã từng yêu anh, nên mới đau khổ. Nỗi đau khắc cốt ghi tâm. </li>
-  <li><b>Euphoria:</b> Phởn phơ. </li>
-  <li><b>Invocation:</b> Sự cầu khẩn.</li>
-  <li><b>Solitude:</b> Cô độc. </li>
-  <li><b>Doomsday:</b> Ngày tận thế. </li>
-  <li><b>Lovelorn:</b> Thất tình. </li>
-  <li><b>Aftertaste:</b> Dư vị. </li>
-  <li><b>Be ware of: </b> Thận trọng </li>
-  <li><b>Asterisk: </b> Dấu * </li>
-  <li><b>Thereabouts: </b> Nơi nào đó, vùng lân cận</li>
-  <li><b>Not-so-distant-past: </b> Không xa lắm trong quá khứ</li>
-  <li><b>Outgrow:</b> I outgrow to be better </li>
-  <li><b>Pet project:</b>  </li>
-  <li><b>Non finger pointing:</b> </li>
-  <li><b>Compatibility:</b> Tính tương hợp </li>
-  <li><b>Fallback:</b> dự trữ </li>
-  <li><b>Parse:</b> mổ sẻ </li>
-  <li><b>Antevasin:</b> (Sanskrit) one who lives at the border </li>
-  <li><b>Credo:</b> The set of beliefs that influence the way you live </li>
-  <li><b>Zealot:</b> Người nhiệt thành </li>
-  <li><b>Condiment:</b> Gia vị </li>
-  <li><b>Miscellaneous:</b> linh tinh </li>
-  <li><b>Obscenity:</b> linh tinh </li>
-  <li><b>Conscience:</b> luong tam, luong tam bi cho can</li>
-  <li><b>Omnipresent:</b> Co mat khap noi</li>
-  <li><b>Deceptive:</b> lua bip hoax</li>
-  <li><b>Opine</b> cho rang</li>
+If there is non-living thing I am forced to express my love with, it must be English. English opens my world beyond the horizon. English gives me new friends. English enriches me with knowledge. English improves my personality. Through English, I am given a second life to live. I love English, indeed.
 
+However, my love for English does not proliferate like love at first sight, but hate-like-love relationship. Haha. During childhood, my family forced me to learn English. Of course, I did not synthesis it well because who likes learning the things he is not interested in. I hated English for that reason.
 
-</ol>
+Things slightly changed when I moved to HCMC for university. Realizing the economical benefits and importance of English gave me aspirations to seriously advance it. I often went to the park where foreign tourists rest to practice my speaking skill. I worked at a hostel for backpackers from all over the worl to indulge myself in an English-speaking environment. I placed note stickers with aspirational quotes on the wall and looked at them from time to time. I liked English a bit more. However, it is a greedy and fake emotion whose root does not lay on meaningful and real tendency. For me, good English skills means better salary at that time.
+
+It was until recently when my hidden existential crisis was discovered. I start showing real love (hope so) for English. As most of information I need for treatments to recover from the crisis is in English. I spent much time for English. I read in English. I think in English. I research in English. I write in English. In fact, I do every possible things to improve and recover myself through English. Slowly I realize that learning English is fun. It is not a burden to think about English as a motivation to get better paycheck.
+
+I believe that it is all about vocabularies or lexis when we learn a new language. Without words, we can not make up sentences, ranging from simple to difficult ones or understand the givers' message in any types of communication. Therefore, I create this "LEXIS" section stimulated from a typical dictionary to enrich my vocabulary and improve my English skills.
+
+This little English dictionary is made up of interesting and first-time-seeing words I have encountered. Just like a paper dictionary, we can systematically check the word meanings by Latin alphabet. You can also contribute to this dictionary through the comment section. Lets get better together, friends!

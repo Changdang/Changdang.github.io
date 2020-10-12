@@ -89,6 +89,13 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  antevasin:
+    output: true
+    permalink: /:collection/:path/
+
+  mylexis:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:

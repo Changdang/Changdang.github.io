@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: Hi There!
 permalink: /about/
 ---
-
-Hey!
 
 This is Trang. I am from Vietnam and temporally residing in Pune City, India to pursue my higher education in Journalism and Mass Communication.
 
