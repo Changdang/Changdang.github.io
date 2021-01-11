@@ -2,6 +2,7 @@
 layout: post
 author: Trang
 ---
+Năm 2020 của tôi có gì thú vị nào?
 
 Tôi viết những dòng tổng kết tống khứ cái năm 2020 hắc ám này khi mấy ông bà già khó ngủ hay dậy sớm pha trà đã đã sẵn tay xé tờ lịch ngày thứ 9 của năm 2021 rồi. Đến cái việc ghi chép mấy thứ cỏn con như này mà tôi cũng làm thiệt là chậm đó các bạn. Dĩ nhiên từ việc này các bạn cũng có thể suy ra được là tôi làm những việc khác cũng siêu chậm luôn. Ngày xưa chắc chắn tôi sẽ tự sỉ nhục bản thân thiệt là nhiều vì cái sự chậm trễ này, nhưng tôi của ngày hôm nay, mặc dù còn nhiều thiếu sót lại chẳng quan tâm là tôi chậm chạp bao nhiêu và phải tổng kết năm cũ trước thềm năm mới như đám đông hay làm trên mạng nữa rồi. Tôi bình thản chấp nhận và đối diện với cái chập chạp và những thứ không hoàn thiện của bản thân đơn giản là vì tôi đã nghiệm ra được một số bài học quý giá về sức khỏe tinh thần và quan điểm sống không quan trọng chủ nghĩa vật chất mà chắc có lẽ nếu không trải qua một năm kinh khủng như 2020 thì chẳng bao giờ tôi có thể hiểu được. Nói một cách đơn giản thì cuộc đời tôi đã bước sang trang mới nhờ năm 2020 đó các bạn.
 
