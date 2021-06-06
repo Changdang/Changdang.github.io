@@ -3,7 +3,7 @@ layout: post
 author: Trang
 ---
 
-Quick update about my recent life.
+Quick update about my recent life in Vietnam.
 
 I got home since Feb 18, 2021. So, that part of the fun in India was over.
 
