@@ -21,7 +21,7 @@ I realized something which is:
 
 Friends can take advantages of you.
 
-No one is honest to me as much as myself.
+No one is honest to me as much as myself. No matter what happens I hope I would not loose myself.
 
 Critical thinking is a must on a daily basis. However, going with the flow is fun if only the mind does not think too much. haha
 
